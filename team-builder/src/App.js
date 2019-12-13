@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Member from './Components/members';
-import MemberForm from './Components/memberForm.js';
+import MemberForm from './Components/memberForm';
 import './App.css';
 
 function App() {
